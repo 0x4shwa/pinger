@@ -1,1 +1,1 @@
-# insta-pic
+# its ping script (noob script)
